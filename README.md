@@ -4,4 +4,4 @@ This is first file.
 
 Modified file
 
-New branch created. File changed in updated branch.
+New branch created. File changed in updated branch. Changed this line to make conflict.
